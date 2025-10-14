@@ -4,7 +4,7 @@ A comprehensive logging framework for Common Lisp
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/atgreen/cl-llog.git |
-| commit  | 978dc53                                    |
+| commit  | 09382f9                                    |
 | systems | llog                                       |
 |---------+--------------------------------------------|
 
